@@ -12,6 +12,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd        |
 |https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667        |
 |https://ncov2019.live/data        |
+|https://coronavirus.app/map       |
 |https://covid19info.live/        |
 |https://shiny.john-coene.com/coronavirus/        |
 |https://covid19.tk/        |
@@ -27,6 +28,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://gena.users.earthengine.app/view/corona-virus        |
 |https://app.powerbi.com/view?r=eyJrIjoiZWMzYWMzNDUtZjJhZC00ZTllLWI1NGUtYzIwZWNlZTM0NDE3IiwidCI6ImZhZmQzNjI5LWJkYjYtNGVhOS1hMmQ5LWY2MjEwN2ViYTkwMSIsImMiOjEwfQ%3D%3D        |
 |https://www.aydan.info/        |
+|https://coronavirus.thebaselab.com/ |
 |https://virus-corona.herokuapp.com/        |
 |https://solutions.targit.com/default.aspx?doc=vfs://Global/COVID-19/Covid-19%20JH%20data%20Map%20Accumulated%20Confirmed.xview        |
 |https://mackuba.eu/corona/        |
@@ -36,5 +38,19 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://public.tableau.com/profile/salvatore1114#!/vizhome/wdctest/CoronavirusCOVID-19Dashboard-DailyUpdates        |
 |https://covid19.roen.us/        |
 |https://benas001.shinyapps.io/covid-19-dash/        |
+|https://www.coronatracker.com/ |
+|https://the2019ncov.com/ |
+|https://www.outbreak.my/ |
+|https://www.epidemictracker.com/2019-Novel-Coronavirus-2019-nCoV |
+|https://covid19japan.com/ |
+|https://coronavirus.zone/ |
+|https://talksub.com/covid19 |
+|https://experience.arcgis.com/experience/7e30edc490a5441a874f9efe67bd8b89 |
+|[Italia] https://alessiodl.github.io/COVID19Dashboard/dist/index.html |
+|[Italia] http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1 |
+|https://coronaviruslive.it/ |
+|https://www.worldometers.info/coronavirus/ |
+
+
 
 [![HitCount](http://hits.dwyl.io/{Alplox}/{Dashboards-COVID-19}.svg)](http://hits.dwyl.io/{Alplox}/{Dashboards-COVID-19})
