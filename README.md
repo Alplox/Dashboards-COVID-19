@@ -53,6 +53,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://github.com/chschoenenberger/covid19_dashboard |
 |https://covid19.chatsubo.it/d/bxqYla_Wk/global-overview?orgId=1 |
 |https://jsapi.dev/covid19-dashboard/ |
+|https://hgis.uw.edu/virus/ |
 
 
 
