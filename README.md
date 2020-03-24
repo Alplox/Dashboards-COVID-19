@@ -7,6 +7,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6        |
 |[CHILE] https://datastudio.google.com/u/0/reporting/b1689869-0c59-442c-951d-2991c0fc611d         |
 |[CHILE] https://soportachile.maps.arcgis.com/apps/opsdashboard/index.html#/67c2302a740a4c6697023bf9127dfa1b |
+|[CHILE] https://datastudio.google.com/u/0/reporting/f97733c1-17e1-4bd6-8841-9dd2d45ac9b4/page/W3OJB  |
 |[Aplicación Android APK] https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases        |
 |[Aplicación IOS/Mac] https://samabox.com/CoronaTracker/        |
 |https://bing.com/covid |
