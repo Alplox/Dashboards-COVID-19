@@ -13,6 +13,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://bing.com/covid |
 |https://google.org/crisisresponse/covid19-map |
 |[CHILE] https://www.covidchile.com/ |
+|[CHILE] https://covid19-chile.herokuapp.com/ |
 |https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd        |
 |https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667        |
 |https://ncov2019.live/data        |
