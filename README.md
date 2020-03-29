@@ -17,6 +17,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd        |
 |https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667        |
 |https://ncov2019.live/data        |
+|https://www.coronalive.info/ |
 |https://coronavirus.app/map       |
 |https://covid19info.live/        |
 |https://shiny.john-coene.com/coronavirus/        |
