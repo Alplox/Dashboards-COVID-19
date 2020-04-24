@@ -69,7 +69,9 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://jsapi.dev/covid19-dashboard/ |
 |https://hgis.uw.edu/virus/ |
 |https://www.covid19projections.com/ |
-
+|https://richardkeep.dev/ |
+|https://sebastianwolf.shinyapps.io/Corona-Shiny/  |
+|https://covid19dashboards.com/  |
 
 
 [![HitCount](http://hits.dwyl.io/{Alplox}/{Dashboards-COVID-19}.svg)](http://hits.dwyl.io/{Alplox}/{Dashboards-COVID-19})
