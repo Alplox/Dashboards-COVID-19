@@ -12,6 +12,11 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |[Aplicación IOS/Mac] https://samabox.com/CoronaTracker/        |
 |https://bing.com/covid |
 |https://google.org/crisisresponse/covid19-map |
+|[CHILE] https://idechile.maps.arcgis.com/apps/opsdashboard/index.html#/6662268991094e439cee1a6f9f0e46ea |
+|[CHILE] https://metabase.imfd.cl/public/dashboard/88cb554f-6274-47d1-af46-650d9ccc8792 |
+|[CHILE] https://coronavirus.mat.uc.cl/ |
+|[CHILE] https://obs-covid.cl/ |
+|[CHILE] https://app.powerbi.com/view?r=eyJrIjoiMTc0ODBlNjYtNmUyYS00ZmU2LWE2NjMtZmNmOGFlYzA4YWNhIiwidCI6IjBlZGVkN2QyLWMwNGMtNGRjMi05YWFjLTYzZjlkNDY1ODliOCIsImMiOjF9 |
 |[CHILE] https://www.covidchile.com/ |
 |[CHILE] https://covid19-chile.herokuapp.com/ |
 |[CHILE] http://www.mapacovid.cl/ |
