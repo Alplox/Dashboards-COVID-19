@@ -10,6 +10,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |[CHILE] https://datastudio.google.com/u/0/reporting/f97733c1-17e1-4bd6-8841-9dd2d45ac9b4/page/W3OJB  |
 |[Aplicación Android APK] https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases        |
 |[Aplicación IOS/Mac] https://samabox.com/CoronaTracker/        |
+|https://covid19.who.int/ |
 |https://bing.com/covid |
 |https://google.org/crisisresponse/covid19-map |
 |[CHILE] https://idechile.maps.arcgis.com/apps/opsdashboard/index.html#/6662268991094e439cee1a6f9f0e46ea |
@@ -20,6 +21,10 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |[CHILE] https://www.covidchile.com/ |
 |[CHILE] https://covid19-chile.herokuapp.com/ |
 |[CHILE] http://www.mapacovid.cl/ |
+|[CHILE] http://www.e-survey.cl/dashboard-interactivo/ |
+|[CHILE] https://visorcovid19.cl/ |
+|[CHILE] https://www2.deloitte.com/cl/recuperacion?id=cl:2sm:3tw:4DeloitteCL%20DashboardCOVID::6:20200525170000::3369630456:5&linkId=89387855 |
+|http://covid.fkdatalab.com/ |
 |https://nextstrain.org/ncov |
 |https://covid19.health/ |
 |https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd        |
