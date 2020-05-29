@@ -24,6 +24,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |[CHILE] http://www.e-survey.cl/dashboard-interactivo/ |
 |[CHILE] https://visorcovid19.cl/ |
 |[CHILE] https://www2.deloitte.com/cl/recuperacion?id=cl:2sm:3tw:4DeloitteCL%20DashboardCOVID::6:20200525170000::3369630456:5&linkId=89387855 |
+|https://coronastats.co/ |
 |http://covid.fkdatalab.com/ |
 |https://nextstrain.org/ncov |
 |https://covid19.health/ |
