@@ -80,6 +80,12 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://sebastianwolf.shinyapps.io/Corona-Shiny/  |
 |https://covid19dashboards.com/  |
 |https://boogheta.github.io/coronavirus-countries/ |
+|https://app.developer.here.com/coronavirus/ |
+|https://covid.amcharts.com/|
+|https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB|
+|https://covid19.evrim.io|
+
+
 
 
 [![HitCount](http://hits.dwyl.io/{Alplox}/{Dashboards-COVID-19}.svg)](http://hits.dwyl.io/{Alplox}/{Dashboards-COVID-19})
