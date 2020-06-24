@@ -57,7 +57,7 @@ Mirror: https://www.apuntesplox.xyz/2020/03/dashboards-coronavirus-covid-19.html
 |https://covid.sdelmont.com/        |
 |https://yyahn.com/covid19/        |
 |https://public.tableau.com/profile/salvatore1114#!/vizhome/wdctest/CoronavirusCOVID-19Dashboard-DailyUpdates        |
-|https://covid19.roen.us/        |
+|https://covid-019.com/        |
 |https://benas001.shinyapps.io/covid-19-dash/        |
 |https://www.coronatracker.com/ |
 |https://the2019ncov.com/ |
